@@ -1,9 +1,0 @@
-{
-  "prompt": "A 19th-century topographic survey map rendered in the style of an 1850s copper-plate engraving, printed in sepia and muted ochre on aged cream paper. The map shows a rugged mountainous terrain viewed from directly above. Tightly packed contour lines trace the undulating surface — close together on steep slopes, widely spaced on gentle gradients — with precise hachure marks showing slope direction as short perpendicular strokes. At the center of the composition lies one deep, unmistakable valley — the lowest point — surrounded by several smaller subsidiary bowls and ridges. A single dotted traverse line begins at a high elevation on the upper left, descends stepwise following the steepest available slope at each point, navigates past a shallow false valley, and terminates at the deepest central basin. The line moves exactly as water would — always choosing the locally steepest downward path. The engraving has the fine mechanical precision of a Royal Geographical Society survey plate — uniform line weights, clean geometry, no photographic shading. Formal rectangular border with thin double-rule frame. Aged paper texture, slight foxing at the edges. No modern typography, no color gradients, no photographic elements, no digital aesthetics. Negative: No modern fonts, no color photography, no digital gradients, no glowing effects, no 3D rendering, no neural network imagery, no computers, no infographic elements, no flat design aesthetics.",
-  "model": "DALL·E 3",
-  "concept": "Gradient Descent",
-  "tradition_name": "19th-Century Topographic Survey Cartography",
-  "tradition_period": "1830s–1880s",
-  "tradition_approach": "Copper-plate engraving line quality, hachure marks showing slope direction, contour line spacing encoding gradient magnitude, muted sepia-ochre palette, and a dotted traverse line following steepest descent — all authentic to Royal Geographical Society survey plates.",
-  "publish_email": true
-}
